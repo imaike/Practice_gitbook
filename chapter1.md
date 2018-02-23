@@ -7,7 +7,8 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 ok how about it?
 
 
-{% youtube src="https://www.youtube.com/watch?v=eYA3f1qo_5E" %}{% endyoutube %}
+{% youtube %} src="https://www.youtube.com/watch?v=eYA3f1qo_5E" 
+{% endyoutube %}
 
 or this one?
 

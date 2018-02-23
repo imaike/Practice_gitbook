@@ -1,7 +1,12 @@
 {
     "plugins": ["youtube", "theme-gestalt", "-theme-default", "styles-sass-fix" ],
+    "pluginsConfig": {
+        "theme-gestalt": {
+            "excludeDefaultStyles": true
+        }
+    },
     "styles": {
         "website": "./styles/website.scss"
-        }
+    }
 }
 

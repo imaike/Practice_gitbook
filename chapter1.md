@@ -20,3 +20,19 @@ or this one?
 
 ### H3 header
 ![](/assets/superformula.png)
+
+* item 1
+* item 2
+    * item 2a
+    * item 2b
+    
+> ive alsobea sosf
+> but you know what happens
+
+
+
+*however* it always **depends** on 
+
+*what it is that **you** want to say*
+
+# nexg

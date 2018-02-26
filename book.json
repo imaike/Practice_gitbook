@@ -2,7 +2,7 @@
     "plugins": ["youtube", "theme-gestalt", "-theme-default"],
     "pluginsConfig": {
         "theme-gestalt": {
-            "excludeDefaultStyles": true
+            "excludeDefaultStyles": false
         }
     },
     "styles": {
